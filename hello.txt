@@ -1,0 +1,4 @@
+Hello, Git!
+
+This file is here so you can practice editing, staging, committing, and pushing changes.
+
