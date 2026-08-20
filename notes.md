@@ -9,3 +9,5 @@
 ## My first change
 
 Write something you learned here, then commit it.
+
+Today I learned how Git commits work.
