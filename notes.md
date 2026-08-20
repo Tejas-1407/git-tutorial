@@ -14,3 +14,4 @@ Today I learned how Git commits work.
 This line was changed on main.
 This line was changed on UI.
 This change is temporarily stashed.
+release 1 (git tag execercise)
